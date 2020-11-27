@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    padding: 50px;
+}
+
+.col1 {
+    background-color: forestgreen;
+}
+
+.col2 {
+    background-color: gold;
+}
