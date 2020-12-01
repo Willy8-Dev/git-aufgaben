@@ -3,10 +3,6 @@ h1 {
     padding: 50px;
 }
 
-.col1 {
-    background-color: forestgreen;
-}
-
-.col2 {
-    background-color: gold;
+iframe {
+    background-color: lightgrey;
 }
